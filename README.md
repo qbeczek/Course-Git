@@ -1,2 +1,3 @@
-# Course-Git
-Course git from forbot
+# git-forbot-tutorial
+A small repository for git tutorial
+
